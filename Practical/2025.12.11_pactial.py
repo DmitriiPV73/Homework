@@ -78,8 +78,8 @@
 # country_1 = Country('Куба', 'Латинская Америка', '11 061 886', '+53', 'Гавана', 'Баямо')
 # country_1.print_country()
 #
-# country_1.city_country('Камагуэй, Ольгин, Сьенфуэгос, Баямо')
-# country_1.print_city()
+# country_2.city_country('Камагуэй, Ольгин, Сьенфуэгос, Баямо')
+# country_2.print_city()
 
 # Задание 4
 
